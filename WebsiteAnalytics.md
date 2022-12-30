@@ -29,3 +29,7 @@ At 4633, Yahoo had the highest Total Duration Stayed and was 20.59% higher than 
 Avg. Duration (mins) trended down, resulting in a 8.79% decrease between Monday, August 1, 2022 and Friday, September 30, 2022.
 ﻿﻿Avg. Duration (mins) started trending up on Friday, September 23, 2022, rising by 18.80% (2.14) in 4 days.
 ﻿﻿Avg. Pages Viewed (mins) jumped from 6.42 to 7.26 during its steepest incline between Monday, September 26, 2022 and Friday, September 30, 2022.﻿﻿
+
+![Bounce Rate Metrics](https://user-images.githubusercontent.com/114671548/210093407-2c147952-98f9-4da0-9a50-bfc867a2d49f.png)
+![Website Conversion](https://user-images.githubusercontent.com/114671548/210093414-7629cf27-40f9-4517-963f-e794b2dffd1b.png)
+![Website Visit](https://user-images.githubusercontent.com/114671548/210093417-85f515db-5eef-47de-a62d-c931ec0680a9.png)
